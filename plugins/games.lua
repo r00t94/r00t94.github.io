@@ -1192,7 +1192,7 @@ end,nil)
 end
 end
 return {
-ws = {
+Ws = {
 "^(حزوره)$", 
 "^(كت تويت)$", 
 "^(المختلف)$",
@@ -1228,6 +1228,6 @@ ws = {
 "^(الانكليزي)$",
 "^(قائمه الالعاب)$",
  },
- iws = games,
- dws = procces,
+ iWs = games,
+ dWs = procces,
  }
